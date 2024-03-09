@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govind Kumawat</h1>
-<h3 align="center">🚩 A Data Scientist From India. 🚩 💕---> DATA LOVER <---💕</h3>
+<h3 align="center">🚩 A Data Scientist From India. 🚩</h3>
+<h2 align = "center">💕---> DATA LOVER <---💕</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind-kumawat2002&label=Profile%20views&color=0e75b6&style=flat" alt="govind-kumawat2002" /> </p>
 

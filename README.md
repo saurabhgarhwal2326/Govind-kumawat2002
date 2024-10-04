@@ -1,8 +1,8 @@
-# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit-Singh-786&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit-Singh-786" /> </p>
+# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh garhwal&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh garhwal" /> </p>
 
 
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Govind kumawat </h1>
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'M SAURABH GARHWAL </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Scientist  From India. 🚩
@@ -33,7 +33,7 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently Internship as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
 - ⚡ My specialaization in **Python  , c , SQL , ML , DL  **
   
@@ -45,7 +45,7 @@
 
 - 😎 **Providing Data Science and machine learning**  training on upflairs Pvt. Ltd. jaipur Rajasthan.
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/govind-kumawat2002?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/saurabhgarhwal2326?tab=repositories)
 
 
 
